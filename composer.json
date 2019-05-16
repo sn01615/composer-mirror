@@ -3,5 +3,12 @@
     "guzzlehttp/guzzle": "^6.3",
     "composer/ca-bundle": "^1.1",
     "ext-json": "*"
-  }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "YangLong",
+      "email": "168119405@qq.com"
+    }
+  ]
 }
